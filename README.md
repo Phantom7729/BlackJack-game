@@ -8,9 +8,13 @@ The value of Ace card is eleven until the person draws another card of ace where
 #Game rules
 
 1- You will be givern two cards randomly.
+
 2- You will know the sum of the cards.
+
 3- You will be shown the first card of computer.
+
 4- You will be given an option to draw a card or reveal computer's card.
+
 5-
 If you choose draw a card and sum of all the cards is more than 21 You lose nut if sum of your cards is less than 21 ,then computer will be revealing there cards and now with that information whoever has the highest sum of cards among them will be the winner of the game.
 But if you choose reveal computer's card
