@@ -16,6 +16,6 @@ The value of Ace card is eleven until the person draws another card of ace where
 4- You will be given an option to draw a card or reveal computer's card.
 
 5-
-If you choose draw a card and sum of all the cards is more than 21 You lose nut if sum of your cards is less than 21 ,then computer will be revealing there cards and now with that information whoever has the highest sum of cards among them will be the winner of the game.
-But if you choose reveal computer's card
+If you choose draw a card and sum of all the cards is more than 21 You lose but if sum of your cards is less than 21 ,then computer will be revealing there cards and now with that information whoever has the highest sum of cards among them will be the winner of the game.
+But if you choose reveal computer's card and sum of computer's card is more than sum of your cards,You lose.
 
